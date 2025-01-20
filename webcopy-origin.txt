@@ -1,0 +1,228 @@
+Uri: https://bingo.dog/
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\index.htm
+Content Type: text/html
+
+Uri: https://bingo.dog/assets/barkpaper/buy.svg
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\barkpaper\buy.svg
+Content Type: image/svg+xml
+
+Uri: https://bingo.dog/assets/bg-dog.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\bg-dog.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/1-bingo.svg
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\1-bingo.svg
+Content Type: image/svg+xml
+
+Uri: https://bingo.dog/assets/main/1-dog.svg
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\1-dog.svg
+Content Type: image/svg+xml
+
+Uri: https://bingo.dog/assets/main/10-button.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\10-button.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/11-image.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\11-image.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/11-nomics.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\11-nomics.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/2-farmer.svg
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\2-farmer.svg
+Content Type: image/svg+xml
+
+Uri: https://bingo.dog/assets/main/3-image.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\3-image.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/4-buy.svg
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\4-buy.svg
+Content Type: image/svg+xml
+
+Uri: https://bingo.dog/assets/main/5-image.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\5-image.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/6-doge.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\6-doge.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/6-image.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\6-image.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/6-shib.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\6-shib.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/7-image.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\7-image.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/7-play.svg
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\7-play.svg
+Content Type: image/svg+xml
+
+Uri: https://bingo.dog/assets/main/8-faces.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\8-faces.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/8-image.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\8-image.png
+Content Type: image/png
+
+Uri: https://bingo.dog/assets/main/9-bingo.svg
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\9-bingo.svg
+Content Type: image/svg+xml
+
+Uri: https://bingo.dog/assets/main/9-image.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\assets\main\9-image.png
+Content Type: image/png
+
+Uri: https://bingo.dog/barkpaper
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\barkpaper.html
+Content Type: text/html
+
+Uri: https://bingo.dog/game
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\game.html
+Content Type: text/html
+
+Uri: https://bingo.dog/meta/apple-touch-icon.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\meta\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://bingo.dog/meta/favicon-16x16.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\meta\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://bingo.dog/meta/favicon-32x32.png
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\meta\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://bingo.dog/meta/favicon.ico
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\meta\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://bingo.dog/meta/site.webmanifest
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\meta\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://bingo.dog/stake
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\stake.html
+Content Type: text/html
+
+Uri: https://bingo.dog/_next/static/chunks/347-2216afd61ece7c97.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\347-2216afd61ece7c97.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/584-107039034dde3257.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\584-107039034dde3257.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/966-235e2b9353bb8b34.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\966-235e2b9353bb8b34.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/framework-b3802df6cb251587.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\framework-b3802df6cb251587.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/main-8c2aff004dfb2495.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\main-8c2aff004dfb2495.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/pages/barkpaper-b63c427d3070999f.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\pages\barkpaper-b63c427d3070999f.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/pages/game-4a8d0d8ebdf53d5e.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\pages\game-4a8d0d8ebdf53d5e.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/pages/index-8b1313ff00d38b90.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\pages\index-8b1313ff00d38b90.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/pages/stake-50bbd952bdf5e76d.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\pages\stake-50bbd952bdf5e76d.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/pages/_app-ee384026d14d0538.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\pages\_app-ee384026d14d0538.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/chunks/webpack-e0bfefac3a401205.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\chunks\webpack-e0bfefac3a401205.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/css/533418c9cc932c2c.css
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\css\533418c9cc932c2c.css
+Content Type: text/css
+
+Uri: https://bingo.dog/_next/static/css/9eccbf98b14f2e33.css
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\css\9eccbf98b14f2e33.css
+Content Type: text/css
+
+Uri: https://bingo.dog/_next/static/css/ae63e626a3e1bd25.css
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\css\ae63e626a3e1bd25.css
+Content Type: text/css
+
+Uri: https://bingo.dog/_next/static/css/aebc7400380e3591.css
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\css\aebc7400380e3591.css
+Content Type: text/css
+
+Uri: https://bingo.dog/_next/static/css/c1f5f5d7c47f6e91.css
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\css\c1f5f5d7c47f6e91.css
+Content Type: text/css
+
+Uri: https://bingo.dog/_next/static/media/Mistral.47a3d9a5.woff2
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\Mistral.47a3d9a5.woff2
+Content Type: font/woff2
+
+Uri: https://bingo.dog/_next/static/media/Mistral.4dc6d00a.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\Mistral.4dc6d00a.ttf
+Content Type: font/ttf
+
+Uri: https://bingo.dog/_next/static/media/Mistral.a2969650.woff
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\Mistral.a2969650.woff
+Content Type: font/woff
+
+Uri: https://bingo.dog/_next/static/media/Mistral.e80dda9e.eot?
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\Mistral.e80dda9e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bingo.dog/_next/static/media/ShortStack.11f462dd.woff
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\ShortStack.11f462dd.woff
+Content Type: font/woff
+
+Uri: https://bingo.dog/_next/static/media/ShortStack.2da602f1.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\ShortStack.2da602f1.ttf
+Content Type: font/ttf
+
+Uri: https://bingo.dog/_next/static/media/ShortStack.8f8c92dc.eot?
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\ShortStack.8f8c92dc.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bingo.dog/_next/static/media/ShortStack.b1a17ddc.woff2
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\ShortStack.b1a17ddc.woff2
+Content Type: font/woff2
+
+Uri: https://bingo.dog/_next/static/media/SuperCorn.6696d316.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\media\SuperCorn.6696d316.ttf
+Content Type: font/ttf
+
+Uri: https://bingo.dog/_next/static/OAu5Evv-tp9TRDR_3LwQT/_buildManifest.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\OAu5Evv-tp9TRDR_3LwQT\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://bingo.dog/_next/static/OAu5Evv-tp9TRDR_3LwQT/_ssgManifest.js
+File Name: C:\work\Downloaded Web Sites\shablons\bingo\bingo.dog\_next\static\OAu5Evv-tp9TRDR_3LwQT\_ssgManifest.js
+Content Type: application/javascript
+
